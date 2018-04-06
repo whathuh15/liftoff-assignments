@@ -7,11 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My projects intention is to be a marketplace where user's can pay others to pay people to do very quick tasks, such as clicking a link or liking/sharing content on social media. this will allow people that have many small repetitive tasks to do to pay for help instead of bugging their friends.
 ### Features
-Include Features here
+Job Posting
+User Login
+Personalized currency purchasable/awarded by the site
+Marketplace
+Customer ratings system (pay/per time, ease, reliability)
+Advanced search system
 ### Technologies
-Include Technologies here
+java
+springboot
+gradle
+(will have to look into the best way to go still)
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Will have to figure out how to accept transactions
+non-local database management 
